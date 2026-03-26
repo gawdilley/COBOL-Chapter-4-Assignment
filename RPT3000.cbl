@@ -1,6 +1,15 @@
        IDENTIFICATION DIVISION.
        PROGRAM-ID. RPT3000.
 
+      *  Authors: Gabe Dilley and Garrett Finke
+      *  Description: This program reads customer master records and
+      *  produces a Year-To-Date Sales Report. It prints customer
+      *  sales for the current and previous year, calculates the
+      *  change amount and percentage, and displays grand totals
+      *  for all customers.
+      *  change amount and percentage, and displays branch totals
+      *  and grand totals.
+
        ENVIRONMENT DIVISION.
        INPUT-OUTPUT SECTION.
        FILE-CONTROL.
