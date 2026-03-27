@@ -1,7 +1,7 @@
 # RPT3000 – Year-To-Date Sales Report
 
 **Course:** COBOL Programming – Chapter 4 Assignment
-**Authors:** [Gabe Dilley](Gabe) | [Garrett Finke](Garrett)
+**Authors:** [[Gabe Dilley](Gabe)](https://github.com/gawdilley) | [[Garrett Finke](Garrett)](https://github.com/gafink01)
 **Date:** March 17, 2026
 **GitHub:** [COBOL-Chapter-4-Assignment](https://github.com/gawdilley/COBOL-Chapter-4-Assignment)
 
@@ -67,5 +67,5 @@ The printed report (`RPT3001`) includes:
 
 | Name | Profile |
 |------|---------|
-| Gabe Dilley | [GitHub](Gabe) |
-| Garrett Finke | [GitHub](Garrett) |
+| Gabe Dilley | [[GitHub](Gabe)](https://github.com/gawdilley) |
+| Garrett Finke | [[GitHub](Garrett)](https://github.com/gafink01) |
