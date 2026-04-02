@@ -53,23 +53,23 @@ The printed report (`RPT3001`) includes:
 ## Example Output
 
 ```
-DATE:  03/17/2026               YEAR-TO-DATE SALES REPORT                PAGE:   1
-TIME:  09:45                                                              RPT3001
+DATE:  03/17/2026               YEAR-TO-DATE SALES REPORT                   PAGE:   1
+TIME:  09:45                                                                  RPT3001
 
-BRANCH   CUST                                        SALES          SALES          CHANGE      CHANGE
- NUM     NUM    CUSTOMER NAME                       THIS YTD       LAST YTD        AMOUNT      PERCENT
+BRANCH   CUST                              SALES       SALES      CHANGE      CHANGE
+ NUM     NUM    CUSTOMER NAME            THIS YTD    LAST YTD     AMOUNT      PERCENT
 ------   -----  --------------------   ----------   ----------   ----------   ------
- 01      00101  ACME CORPORATION          15,000.00      12,500.00       2,500.00       20.0
- 01      00102  SMITH HARDWARE             8,200.00       9,100.00         900.00-        9.9-
- 01      00103  METRO SUPPLY CO            4,750.00       3,200.00       1,550.00       48.4
-                        BRANCH TOTAL      27,950.00      24,800.00       3,150.00       12.7
+ 01      00101  ACME CORPORATION        15,000.00    12,500.00     2,500.00     20.0
+ 01      00102  SMITH HARDWARE           8,200.00     9,100.00       900.00-     9.9-
+ 01      00103  METRO SUPPLY CO          4,750.00     3,200.00     1,550.00     48.4
+                        BRANCH TOTAL    27,950.00    24,800.00     3,150.00     12.7
 
- 02      00201  LAKE CITY TOOLS           22,000.00      19,800.00       2,200.00       11.1
- 02      00202  RIVERSIDE MFG              9,100.00       9,100.00            .00         .0
- 02      00203  JONES ELECTRIC            11,500.00      11,500.00            .00         .0
-                        BRANCH TOTAL      42,600.00      40,400.00       2,200.00        5.4
+ 02      00201  LAKE CITY TOOLS         22,000.00    19,800.00     2,200.00     11.1
+ 02      00202  RIVERSIDE MFG            9,100.00     9,100.00          .00       .0
+ 02      00203  JONES ELECTRIC          11,500.00    11,500.00          .00       .0
+                        BRANCH TOTAL    42,600.00    40,400.00     2,200.00      5.4
 
-                        GRAND TOTAL       70,550.00      65,200.00       5,350.00        8.2
+                        GRAND TOTAL     70,550.00    65,200.00     5,350.00      8.2
 ```
 
 ---
